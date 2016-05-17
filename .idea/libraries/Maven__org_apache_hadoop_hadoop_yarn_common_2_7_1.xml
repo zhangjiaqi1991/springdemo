@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-yarn-common:2.7.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.7.1/hadoop-yarn-common-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.7.1/hadoop-yarn-common-2.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.7.1/hadoop-yarn-common-2.7.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hadoop-yarn-common-2.7.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hadoop-yarn-common-2.7.1-sources.jar!/org/apache/hadoop/yarn/api/impl/pb/client" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hadoop-yarn-common-2.7.1-sources.jar!/org/apache/hadoop/yarn/api/impl/pb/service" />
+    </SOURCES>
+  </library>
+</component>
